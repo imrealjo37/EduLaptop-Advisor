@@ -81,7 +81,4 @@ rag_project/
 - **Coverage:** 32 laptops across 6 categories (Budget, Mid-Range, Premium, High-End, Gaming, Business)
 - **Response Grounding:** All answers are grounded in retrieved documents
 
-## 👥 Team
-CCAI 435 — Deep Learning Course  
-College of Computer Science and Engineering  
-University of Jeddah, Kingdom of Saudi Arabia
+
